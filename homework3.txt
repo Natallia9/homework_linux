@@ -1,0 +1,4 @@
+echo "your name is: $(whoami)"
+echo "your working directory is: $(pwd)"
+echo "number of users: $(top)"
+echo "done"
